@@ -1,0 +1,11 @@
+﻿  Box.cpp
+c:\users\vanessa\source\repos\projetoicg\projetoicg\box.h(1): fatal error C1083: Não é possível abrir arquivo incluir: 'GL/glew.h': No such file or directory
+  Drone.cpp
+c:\users\vanessa\source\repos\projetoicg\projetoicg\drone.h(4): fatal error C1083: Não é possível abrir arquivo incluir: 'GL/glut.h': No such file or directory
+  Model.cpp
+c:\users\vanessa\source\repos\projetoicg\projetoicg\model.h(4): fatal error C1083: Não é possível abrir arquivo incluir: 'GL/freeglut.h': No such file or directory
+  PointLigth.cpp
+c:\users\vanessa\source\repos\projetoicg\projetoicg\pointligth.h(3): fatal error C1083: Não é possível abrir arquivo incluir: 'GL\freeglut.h': No such file or directory
+  ProjetoICG.cpp
+c:\users\vanessa\source\repos\projetoicg\projetoicg\lib.h(7): fatal error C1083: Não é possível abrir arquivo incluir: 'GL\glew.h': No such file or directory
+  Gerando Código...

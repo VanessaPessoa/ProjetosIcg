@@ -1,0 +1,6 @@
+﻿  ProjetoICG.cpp
+c:\users\vanessa\source\repos\projetoicg\projetoicg\projetoicg.cpp(60): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\vanessa\source\repos\projetoicg\projetoicg\projetoicg.cpp(135): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\vanessa\source\repos\projetoicg\projetoicg\projetoicg.cpp(141): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\vanessa\source\repos\projetoicg\projetoicg\projetoicg.cpp(147): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+  ProjetoICG.vcxproj -> C:\Users\Vanessa\source\repos\ProjetoICG\Debug\ProjetoICG.exe

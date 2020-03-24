@@ -1,0 +1,45 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Oak100_middle2
+Ka 0.000000 0.000000 0.000000
+Kd 0.313725 0.321569 0.200000
+Ks 0.330000 0.330000 0.330000
+map_Kd arvores/Oak100_middle2.jpg
+
+newmtl oak100_ls
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.105882 0.070588
+Ks 0.330000 0.330000 0.330000
+map_Kd arvores/oak100_ls.png
+
+newmtl Oak100_rs
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.121569 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd arvores/Oak100_rs.png
+
+newmtl Oak100_top
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.105882 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd arvores/Oak100_top.png
+
+newmtl Oak100_bottom
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.105882 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd arvores/Oak100_bottom.png
+
+newmtl _Beige_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.682353 0.631373
+Ks 0.330000 0.330000 0.330000
+map_Kd arvores/_Beige_2.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+

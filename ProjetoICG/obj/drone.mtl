@@ -1,0 +1,39 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Tile_Mosaic_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.858824 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd drone/Tile_Mosaic_Multi.jpg
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.819608 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd drone/Metal_Aluminum_Anodized.jpg
+
+newmtl Metal_Corrogated_Shiny
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.330000 0.330000 0.330000
+map_Kd drone/Metal_Corrogated_Shiny.jpg
+
+newmtl Metal_Seamed
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd drone/Metal_Seamed.jpg
+
+newmtl Brick_Colored_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.560784 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd drone/Brick_Colored_Blue.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+

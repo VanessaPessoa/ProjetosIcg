@@ -1,0 +1,16 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_03___Default1
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.274510 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd arvore/M_03___Default1.jpg
+
+newmtl M_02___Default1
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.576471 0.141176
+Ks 0.330000 0.330000 0.330000
+d 0.860000
+
