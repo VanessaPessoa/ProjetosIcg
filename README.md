@@ -1,3 +1,3 @@
 # ProjetosIcg
 
-Projetos para estudo da disciplina Introdução à Computação Gráfica
+Projeto final da disciplina Introdução à Computação Gráfica
